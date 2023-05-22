@@ -27,3 +27,9 @@ C:\Users\T-Gamer\Desktop\projetos\ManagerFinancialSystem\ManagerFS\ManagerFS\obj
 C:\Users\T-Gamer\Desktop\projetos\ManagerFinancialSystem\ManagerFS\ManagerFS\obj\Debug\netcoreapp3.1\ManagerFS.dll
 C:\Users\T-Gamer\Desktop\projetos\ManagerFinancialSystem\ManagerFS\ManagerFS\obj\Debug\netcoreapp3.1\ManagerFS.pdb
 C:\Users\T-Gamer\Desktop\projetos\ManagerFinancialSystem\ManagerFS\ManagerFS\obj\Debug\netcoreapp3.1\ManagerFS.genruntimeconfig.cache
+C:\Users\T-Gamer\Desktop\projetos\ManagerFinancialSystem\ManagerFS\ManagerFS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\T-Gamer\Desktop\projetos\ManagerFinancialSystem\ManagerFS\ManagerFS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\T-Gamer\Desktop\projetos\ManagerFinancialSystem\ManagerFS\ManagerFS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\T-Gamer\Desktop\projetos\ManagerFinancialSystem\ManagerFS\ManagerFS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\T-Gamer\Desktop\projetos\ManagerFinancialSystem\ManagerFS\ManagerFS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\T-Gamer\Desktop\projetos\ManagerFinancialSystem\ManagerFS\ManagerFS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
