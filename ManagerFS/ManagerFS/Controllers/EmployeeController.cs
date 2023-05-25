@@ -54,7 +54,7 @@ namespace ManagerFS.Controllers
         {
             string query = @"
                             insert into dbo.Employee
-                            (EmployeeName, Department, DateOfJoining, PhotoFileName
+                            (EmployeeName, Department, DateOfJoining, PhotoFileName)
                      values (@EmployeeName, @Department, @DateOfJoining, @PhotoFileName)
                             ";
             DataTable table = new DataTable();
@@ -65,7 +65,7 @@ namespace ManagerFS.Controllers
                 myCon.Open();
                 using (SqlCommand myCommand = new SqlCommand(query, myCon))
                 {
-                    myCommand.Parameters.AddWithValue("@DepartmentName", employee.EmployeeName);
+                    myCommand.Parameters.AddWithValue("@EmployeeName", employee.EmployeeName);
                     myCommand.Parameters.AddWithValue("@Department", employee.Department);
                     myCommand.Parameters.AddWithValue("@DateOfJoining", employee.DateOfJoining);
                     myCommand.Parameters.AddWithValue("@PhotoFileName", employee.PhotoFileName);
